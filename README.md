@@ -1,6 +1,6 @@
 # Mes Projet Personnel
 
-Bienvenue dans mon dossier de projets personnels ! Ce dossier est une collection de projets que j'ai réalisés pour m'entraîner à coder des sites web, des applications, et d'autres outils numériques. L'objectif principal est de renforcer mes compétences en développement web et en programmation tout en explorant de nouvelles technologies et approches.
+Bienvenue dans mon dossier de projet personnel ! Ce dossier est une collection de projets que j'ai réalisés pour m'entraîner à coder des sites web, des applications, et d'autres outils numériques. L'objectif principal est de renforcer mes compétences en développement web et en programmation tout en explorant de nouvelles technologies et approches.
 
 ## Aperçu
 
