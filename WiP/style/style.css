@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: url('../assets/img/bc-header.png') center/cover;
+  background: url('../assets/img/bc-header.png');
   height: 280px;
   max-width: 100%;
   display: flex;
